@@ -1,7 +1,1 @@
-# DEVOTeam 
-
-Maintainers:  
-Manuja Bandal  
-Sumant Gaopande  
-Sainath Parakala  
-
+A Distributed System that produces precipitation graphs given Nexrad radar location
