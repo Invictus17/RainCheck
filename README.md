@@ -1,10 +1,3 @@
-# DEVOTeam 
-
-Maintainers:  
-Manuja Bandal  
-Sumant Gaopande  
-Sainath Parkala  
-
 # System overview:
 ![alt text](https://github.com/airavata-courses/DevoTeam/blob/Milestone-1/Architecture.png)
 
@@ -172,7 +165,8 @@ ii) On the main page input data in the following format:
 - day input format: it is a 2 digit entry field - 01 or 25  
 - radar: input to be bold KLTX / KIND / KAMA  
 iii) while plot is not displayed:  
-          Hit Find(Do not change page or navigate elsewhere)
+          Hit Find(The corresponding outputs shall lead you on!)
+          
 ```
 
 ## Citations:
