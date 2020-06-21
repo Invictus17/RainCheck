@@ -1,4 +1,4 @@
-## We have used ubuntu as the instance OS, all installations and scripts are tailored for ubuntu
+## We have used ubuntu as the VM instance OS, all installations and scripts are tailored for ubuntu
 
 ### STEP 1: Ansible installation on host - Ubuntu
 citing https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04#step-1-%E2%80%94-installing-ansible for ansible installation guidelines
@@ -146,15 +146,4 @@ ssh ubunut@<master_ip>
 kubectl get pods  
 kubectl get deployments  
 kubectl get services  
-
-### Current system ips:  
-Currently supporting only chrome browser  
-Add Moesif CORS plugin https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc?hl=en-US   
-To check currently deployed system: http://149.165.169.244:31515/   
-Jenkins master: 149.165.169.235:8081 username: Manuja password: manuja17  
-Kubernetes master: 149.165.169.244  
-Kubernetes slave1: 149.165.170.1  
-Kubernetes slave1: 149.165.170.15  
-
-
 
